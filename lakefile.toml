@@ -1,0 +1,15 @@
+name = "lait-starter"
+version = "0.1.0"
+defaultTargets = ["lait-starter"]
+
+[[require]]
+name = "lait"
+git = "https://github.com/gancherj/Lait"
+rev = "main"
+
+[[lean_lib]]
+name = "LaitStarter"
+
+[[lean_exe]]
+name = "lait-starter"
+root = "Main"

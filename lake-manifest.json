@@ -1,0 +1,16 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"url": "https://github.com/gancherj/Lait",
+   "type": "git",
+   "subDir": null,
+   "scope": "",
+   "rev": "0b2242e369547f1c318e0b7bce41e5368182868b",
+   "name": "lait",
+   "manifestFile": "lake-manifest.json",
+   "inputRev": "main",
+   "inherited": false,
+   "configFile": "lakefile.toml"}],
+ "name": "«lait-starter»",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
