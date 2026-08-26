@@ -1,4 +1,4 @@
 import LaitStarter
 
-def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+def main : IO _root_.Unit :=
+  IO.println s!"Hello, world!"
