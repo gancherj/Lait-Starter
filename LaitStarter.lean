@@ -1,3 +1,6 @@
--- This module serves as the root of the `LaitStarter` library.
--- Import modules here that should be built as part of the library.
-import LaitStarter.Basic
+import Lait
+#lait
+
+def foo : Int := 32
+
+#eval foo

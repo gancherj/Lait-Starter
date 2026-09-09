@@ -5,7 +5,7 @@
    "type": "git",
    "subDir": null,
    "scope": "",
-   "rev": "f74d5e4e0031428b965b49f3541ca36e7bab4da7",
+   "rev": "b3a465796c2f6c29d04fe9a227600048d2a511c6",
    "name": "lait",
    "manifestFile": "lake-manifest.json",
    "inputRev": "main",

@@ -10,6 +10,3 @@ rev = "main"
 [[lean_lib]]
 name = "LaitStarter"
 
-[[lean_exe]]
-name = "lait-starter"
-root = "Main"
