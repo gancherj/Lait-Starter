@@ -1,6 +1,6 @@
 name = "lait-starter"
 version = "0.1.0"
-defaultTargets = ["lait-starter"]
+defaultTargets = ["LaitStarter"]
 
 [[require]]
 name = "lait"
